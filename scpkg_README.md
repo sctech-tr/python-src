@@ -1,3 +1,5 @@
+# shpkg is the successor to scpkg. it can install both my software and others https://shpkg.github.io
+
 # scpkg
 my package manager for install my software
 ## it's portable!

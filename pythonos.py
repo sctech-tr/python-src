@@ -17,7 +17,7 @@ class PythonOS:
             "pythonosfetch": self.pythonosfetch,
             "uac": self.uac
         }
-        self.appstore_url = "https://box.sctech.qzz.io/pythonos_appstore.json"
+        self.appstore_url = "https://raw.githubusercontent.com/sctech-tr/python-src/refs/heads/main/pythonos_appstore.json"
         self.app_folder = "./pythonos_apps/"
         os.makedirs(self.app_folder, exist_ok=True)
 

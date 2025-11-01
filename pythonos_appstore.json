@@ -1,0 +1,24 @@
+{
+    "ip": {
+        "description": "Get your IP address.",
+        "download_url": "https://raw.githubusercontent.com/sctech-tr/python-src/refs/heads/main/pythonos_apps/ip.py"
+    },
+    "print": {
+        "description": "Print a message.",
+        "download_url": "https://raw.githubusercontent.com/sctech-tr/python-src/refs/heads/main/pythonos_apps/print.py"
+    },
+    "datetime": {
+        "description": "Get the current date and time.",
+        "download_url": "https://raw.githubusercontent.com/sctech-tr/python-src/refs/heads/main/pythonos_apps/datetime.py"
+    },
+    "hello_world": {
+        "description": "Print 'Hello, World!'",
+        "download_url": "https://raw.githubusercontent.com/sctech-tr/python-src/refs/heads/main/pythonos_apps/hello_world.py"
+    },
+    "calc": {
+        "description": "A simple calculator.",
+        "download_url": "https://raw.githubusercontent.com/sctech-tr/python-src/refs/heads/main/pythonos_apps/calc.py"
+    }
+}
+
+
